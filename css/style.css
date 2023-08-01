@@ -1,0 +1,74 @@
+/* Start Bootstrap Overriding */
+.bg-primary, .btn-primary {
+	background-color: hsl(0, 100%, 75%) !important;
+}
+.btn-primary {
+	border-color: hsl(0, 100%, 75%) !important;
+}
+.btn-primary:hover {
+	background-color: hsl(0, 100%, 70%) !important;
+}
+.text-primary {
+	color: hsl(0, 100%, 85%) !important;
+}
+.form-control:focus {
+	border-color: hsl(0, 100%, 75%);
+	box-shadow: 0 0 0 0.25rem hsla(0, 100%, 75%, .25);
+}
+.hero-image {
+	height: 75vh;
+	background-position:center; 
+	background-repeat:no-repeat; 
+	background-size:cover; 
+	transition: background .4s ease;
+}
+h1 {
+	font-family: 'Lily Script One', cursive;
+}
+/* End Bootstrap Overriding */
+
+/* Start Sidebar */
+@media screen and (min-width: 992px) {
+	.ml-lg-270px {
+		margin-left: 270px;
+	}
+}
+.w-270px {
+	width: 270px;
+}
+/* End Sidebar */
+
+/* Start Product-details */
+.flex-basis-35-sm {
+	flex-basis: 100%;
+}
+@media screen and (min-width: 767px) {
+	.flex-basis-35-sm {
+		flex-basis: 35%;
+	}
+}
+/* End Product-details */
+
+/* Admin Dashboard */
+.dashboard-container {
+	flex-basis: 100%;
+}
+@media screen and (min-width: 767px) {
+	.dashboard-container {
+		flex-basis: 26%;
+	}
+}
+/* End Admin Dashboard*/
+
+.google-map {
+     padding-bottom: 50%;
+     position: relative;
+}
+
+.google-map iframe {
+     height: 100%;
+     width: 100%;
+     left: 0;
+     top: 0;
+     position: absolute;
+}
