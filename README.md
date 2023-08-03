@@ -88,6 +88,7 @@ You can try this on https://johnbalbarona.tech/projects/cakey/
 </ul>
 
 <h2>Images</h2>
+
 ![image](https://github.com/balbarona09/cakey/assets/101550121/eace3416-0bb1-43f9-a0c0-7f8250db5828)
 
 ![image](https://github.com/balbarona09/cakey/assets/101550121/5a9b4b22-6a6f-438a-a7df-1703638d63fb)
