@@ -89,6 +89,7 @@ You can try this on https://johnbalbarona.tech/projects/cakey/
 
 <h2>Images</h2>
 ![image](https://github.com/balbarona09/cakey/assets/101550121/eace3416-0bb1-43f9-a0c0-7f8250db5828)
+
 ![image](https://github.com/balbarona09/cakey/assets/101550121/5a9b4b22-6a6f-438a-a7df-1703638d63fb)
 ![image](https://github.com/balbarona09/cakey/assets/101550121/444e5ccb-9ff4-4020-b96f-cbabdaa86807)
 ![image](https://github.com/balbarona09/cakey/assets/101550121/3e22eaf5-e1cd-44e8-ae0a-953a39f332d8)
