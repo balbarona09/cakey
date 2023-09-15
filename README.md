@@ -1,6 +1,6 @@
 # cakey
 This is a Cake Shop Management System created by <b>John Michael Balbarona</b>
-You can try this on https://johnbalbarona.tech/projects/cakey/
+You can try this on https://portfolio.johnbalbarona.tech/projects/cakey/
 <h2>Language Used</h2>
 <ul>
   <li>Php</li>
