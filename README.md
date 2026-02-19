@@ -87,6 +87,13 @@ You can try this on https://portfolio.johnbalbarona.tech/projects/cakey/
   <li>password: password09</li>
 </ul>
 
+<h3>Make sure to enable these in php.ini</h3>
+<ul>
+  <li>extension=mbstring</li>
+  <li>extension=exif</li>
+  <li>extension=gd</li>
+</ul>
+
 <h2>Images</h2>
 
 ![image](https://github.com/balbarona09/cakey/assets/101550121/eace3416-0bb1-43f9-a0c0-7f8250db5828)
