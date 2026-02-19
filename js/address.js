@@ -1,4 +1,4 @@
-import addresses from '../address.json' assert {type: 'json'};
+import addresses from '../address.json' with {type: 'json'};
 
 const regionSelect = document.getElementById('region');
 const provinceSelect = document.getElementById('province');
